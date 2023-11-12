@@ -1,4 +1,3 @@
-import React from 'react';
 import './App.css';
 import PrivacyPolicy from './PrivacyPolicy'; // Import the PrivacyPolicy component
 
